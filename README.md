@@ -1,4 +1,4 @@
-# 🛠️ Sistema de Gestão para Oficina Mecânica
+# 🛠️ Sistema de Gestão para Oficina Mecânica - Auto-X
 
 Sistema desenvolvido para auxiliar a gestão de **oficinas mecânicas**, oferecendo controle financeiro, vendas e relatórios gerenciais de forma simples, organizada e eficiente.
 
