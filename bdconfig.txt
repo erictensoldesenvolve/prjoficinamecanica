@@ -1,0 +1,6 @@
+﻿Usuário = eric tensol vieira
+Email = eric@drogariaprecobom.com.br
+Data Inicio = 2019-02-19
+Data Final = 2019-03-21
+
+chave = 201907242019082304700028670

@@ -1,0 +1,12 @@
+06-19 12:34:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBLFORNECEDORES" not found; SQL statement:
+SELECT * FROM TBLFORNECEDORES ORDER BY FORNNOME ASC [42102-176]
+06-20 01:29:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBLFORNECEDORES" not found; SQL statement:
+SELECT * FROM TBLFORNECEDORES ORDER BY FORNNOME ASC [42102-176]
+06-20 01:29:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBLCATEGORIAS" not found; SQL statement:
+SELECT * FROM TBLCATEGORIAS ORDER BY CATNOME ASC [42102-176]
+06-20 01:29:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBLTIPODESPEZAS" not found; SQL statement:
+SELECT * FROM TBLTIPODESPEZAS ORDER BY NOMEDESP ASC [42102-176]
